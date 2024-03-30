@@ -1,4 +1,4 @@
-# MERNNote
+# Fullstack_MERNNote
 
 - combining the technologies used - MongoDB, Express, React, Node.js
 
